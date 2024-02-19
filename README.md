@@ -1,4 +1,4 @@
-# currency-converter <img src="image1.png" height="40" width="40" >
+# Foreign Exchange Converter <img src="image1.png" height="40" width="40" >
 - A currency converting app that can run `online` or `offline`
 ---
 ## Used Languages
